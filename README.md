@@ -85,5 +85,18 @@ class SimpleCalc():
         return value1 / value2
 
 # run this file after defining each function to check there are no syntax errors
+```
 
+- Running the tests with `python -m unittest discover -v`
+```
+python -m unittest discover -v
+test_add (test_unittest_simplecalc.CalcTest) ... ok
+test_divide (test_unittest_simplecalc.CalcTest) ... ok
+test_multiply (test_unittest_simplecalc.CalcTest) ... ok
+test_subtract (test_unittest_simplecalc.CalcTest) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+OK
 ```

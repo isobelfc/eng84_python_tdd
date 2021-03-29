@@ -28,3 +28,4 @@ class CalcTest(unittest.TestCase):
 
 # `python -m pytest` in the terminal runs the tests
 # run it before starting, and then again after defining each method
+# pytest looks for any file with name including test*.py
