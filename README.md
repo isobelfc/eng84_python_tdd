@@ -13,7 +13,7 @@
 - Refactor the code for the next test `BLUE`
 - This goes on until all the tests have successfully passed
 - Assertions are important in testing
-```
+
 |Method |   Checks that|   New in |
 |:---|:---|:---|
 |assertEqual(a, b)        | a == b              ||
@@ -28,7 +28,6 @@
 |assertNotIn(a, b)        |    a not in b         |3.1|
 |assertIsInstance(a, b)   |    isinstance(a, b)    |3.2|
 |assertNotIsInstance(a, b)|    not isinstance(a, b)|3.2|
-```  
 
 - Let's create a file called `test_unittest_simplecalc.py`
 - Naming convention is extremely important when it comes to TDD in Python
