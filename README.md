@@ -12,6 +12,8 @@
 - Write code to pass the test `GREEN`
 - Refactor the code for the next test `BLUE`
 - This goes on until all the tests have successfully passed
+  
+![TDD Cycle](https://gorillalogic.com/wp-content/uploads/2016/08/70087690-1.png)
 - Assertions are important in testing
 
 |Method |   Checks that|   New in |
